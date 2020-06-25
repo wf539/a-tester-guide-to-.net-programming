@@ -1,0 +1,8 @@
+C:\DATA\GitHub\a-tester-guide-to-.net-programming\DownloadFiles\TGNet\Chapter03\Chapter3DemoCode\VB\TextReadUtility\TextReadUtility\obj\Debug\TextReadUtility.vbprojAssemblyReference.cache
+C:\DATA\GitHub\a-tester-guide-to-.net-programming\DownloadFiles\TGNet\Chapter03\Chapter3DemoCode\VB\TextReadUtility\TextReadUtility\obj\Debug\TextReadUtility.frmTextRead.resources
+C:\DATA\GitHub\a-tester-guide-to-.net-programming\DownloadFiles\TGNet\Chapter03\Chapter3DemoCode\VB\TextReadUtility\TextReadUtility\obj\Debug\TextReadUtility.Resources.resources
+C:\DATA\GitHub\a-tester-guide-to-.net-programming\DownloadFiles\TGNet\Chapter03\Chapter3DemoCode\VB\TextReadUtility\TextReadUtility\obj\Debug\TextReadUtility.vbproj.GenerateResource.cache
+C:\DATA\GitHub\a-tester-guide-to-.net-programming\DownloadFiles\TGNet\Chapter03\Chapter3DemoCode\VB\TextReadUtility\TextReadUtility\obj\Debug\TextReadUtility.vbproj.CoreCompileInputs.cache
+C:\DATA\GitHub\a-tester-guide-to-.net-programming\DownloadFiles\TGNet\Chapter03\Chapter3DemoCode\VB\TextReadUtility\TextReadUtility\obj\Debug\TextReadUtility.exe
+C:\DATA\GitHub\a-tester-guide-to-.net-programming\DownloadFiles\TGNet\Chapter03\Chapter3DemoCode\VB\TextReadUtility\TextReadUtility\obj\Debug\TextReadUtility.xml
+C:\DATA\GitHub\a-tester-guide-to-.net-programming\DownloadFiles\TGNet\Chapter03\Chapter3DemoCode\VB\TextReadUtility\TextReadUtility\obj\Debug\TextReadUtility.pdb

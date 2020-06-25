@@ -2,7 +2,13 @@
   "ExpandedNodes": [
     "",
     "\\DownloadFiles",
-    "\\DownloadFiles\\TGNet"
+    "\\DownloadFiles\\TGNet",
+    "\\DownloadFiles\\TGNet\\Chapter03",
+    "\\DownloadFiles\\TGNet\\Chapter03\\Chapter3DemoCode",
+    "\\DownloadFiles\\TGNet\\Chapter03\\Chapter3DemoCode\\VB",
+    "\\DownloadFiles\\TGNet\\Chapter03\\Chapter3DemoCode\\VB\\TextReadUtility",
+    "\\DownloadFiles\\TGNet\\Chapter03\\Chapter3DemoCode\\VB\\TextReadUtility\\TextReadUtility"
   ],
+  "SelectedNode": "\\DownloadFiles\\TGNet\\Chapter03\\Chapter3DemoCode\\VB\\TextReadUtility\\TextReadUtility\\frmTextRead.designer.vb",
   "PreviewInSolutionExplorer": false
 }
